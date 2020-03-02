@@ -8,7 +8,7 @@ Some reminders,
   - they don't affect the end result
   - you have to use common sense
 - You can check the codec and other information of a video using [ MediaInfo. ]( https://mediaarea.net/en/MediaInfo )
-- You can easily experiment on a video by selecting **Range** to **Seconds** and then selecting end point to 1 minute or so and by selecting Video > Optimise Video > Encoder Preset > Ultrafast.
+- You can easily experiment on a video by selecting **Range** to **Seconds** and then selecting end point to 1 minute or so and by selecting Video > Optimise Video > Encoder Preset > Ultrafast. Don't forget to change them back before the final conversion.
 - Get yourself familiarized with HandBrake before using the following settings.
 - Any type of contribution is welcome.
 
