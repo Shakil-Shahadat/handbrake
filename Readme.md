@@ -3,7 +3,9 @@
 
 Some Reminders,
 - Always use the latest version of HandBrake.
-- Some settings are not specified because either they don't affect the end result or you have to use common sense.
+- Some settings are not specified because of one of the following reasons,
+  - they don't affect the end result
+  - you have to use common sense
 - Any type of contribution is welcome.
 
 ## Summary
