@@ -12,7 +12,8 @@ Some Reminders,
 - Video Codec: H.265 (x265)
 - Framerate (FPS): 'Same as source' or lower
   - Peak Framerate
-- Quality: Constant Quality: Higher is better
+- Quality
+  - Constant Quality: Higher is better
 - Optimise Video
   - Encoder Preset: Placebo
   - Encoder Tune: PSNR
