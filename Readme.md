@@ -27,4 +27,5 @@ Some reminders,
 ## Audio
 - Codec: Vorbis
 - Bitrate: 24
+- Mixdown: Mono
 - Samplerate: 16
