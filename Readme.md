@@ -13,7 +13,7 @@ Some Reminders,
 - Framerate (FPS): 'Same as source' or lower
   - Peak Framerate
 - Quality
-  - Constant Quality: Higher is better
+  - Constant Quality: Higher value is better
 - Optimise Video
   - Encoder Preset: Placebo
   - Encoder Tune: PSNR
