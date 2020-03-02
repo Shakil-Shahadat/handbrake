@@ -11,6 +11,7 @@
 - Quality: Constant Quality: Higher is better
 - Optimise Video
   - Encoder Preset: Placebo
+  - Encoder Tune: PSNR
 
 ## Audio
 - Codec: Vorbis
