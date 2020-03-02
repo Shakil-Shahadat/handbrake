@@ -29,4 +29,4 @@ Some reminders,
 - Codec: Vorbis
 - Mixdown: Mono
 - Samplerate: 16 ( Click the down arrow beside mixdown to see this option )
-- Bitrate: 24 ( Available only after selecting Samplerate to 16 )
+- Bitrate: 24 ( Available only after selecting Mixdown and Samplerate )
