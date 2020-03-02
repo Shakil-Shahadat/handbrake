@@ -6,3 +6,4 @@
 - Framerate (FPS): 'Same as source' or lower
 - Peak Framerate
 - Quality: Constant Quality: Higher is better
+- Optimise Video: Encoder Preset: Placebo
