@@ -3,6 +3,7 @@
 
 Some Reminders,
 - Always use the latest version of HandBrake.
+- Some settings are not specified because either they don't affect the end result or you have to use common sense.
 
 ## Summary
 - Format: MKV
