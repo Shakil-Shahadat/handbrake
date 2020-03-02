@@ -25,4 +25,5 @@ Some reminders,
 
 ## Audio
 - Codec: Vorbis
+- Bitrate: 24
 - Samplerate: 16
