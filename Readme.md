@@ -1,4 +1,4 @@
-## Summary Tab
+## Summary
 - Format: MKV
 
 ## Video
