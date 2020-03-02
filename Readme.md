@@ -1,2 +1,2 @@
-## Summery Tab
+## Summary Tab
 - Format: MKV
