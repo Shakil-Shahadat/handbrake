@@ -9,3 +9,4 @@
 - Optimise Video: Encoder Preset: Placebo
 
 ## Audio
+- Codec: Vorbis
