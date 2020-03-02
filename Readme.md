@@ -7,6 +7,7 @@ Some Reminders,
   - default setting is suffice
   - they don't affect the end result
   - you have to use common sense
+- You can check the codec and other information of a video using [ MediaInfo ]( https://mediaarea.net/en/MediaInfo )
 - Any type of contribution is welcome.
 
 ## Summary
