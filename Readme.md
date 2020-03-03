@@ -20,7 +20,7 @@ Some reminders,
 - Framerate (FPS): 'Same as source' or lower
   - Peak Framerate
 - Quality
-  - Constant Quality: Higher value is better
+  - Constant Quality: 30 to 40 ( Higher value produces better compression but inferior video quality )
 - Optimise Video
   - Encoder Preset: Placebo
   - Encoder Tune: PSNR
