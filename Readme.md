@@ -10,6 +10,7 @@ Some reminders,
   - you have to use common sense
 - You can check the codec and other information of a video using [ MediaInfo. ]( https://mediaarea.net/en/MediaInfo )
 - You can easily experiment on a video by selecting **Range** to **Seconds** and then selecting end point to 1 minute or so and by selecting Video > Optimise Video > Encoder Preset > Ultrafast. Don't forget to change them back before the final conversion.
+- In case, the converted video can't be played, install [ K-Lite Codec Pack. ]( http://www.codecguide.com/download_k-lite_codec_pack_basic.htm )
 - Any type of contribution is welcome.
 
 ## Summary
