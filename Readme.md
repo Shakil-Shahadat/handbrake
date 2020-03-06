@@ -3,8 +3,8 @@
 
 ## Reminders
 - Always use the latest version of HandBrake.
-- You can download these settings as a preset file from this repository. Just download 'Preset.json' from here and in HandBrake, click 'Presets > Import from file' and then select the file.
 - Get yourself familiarized with HandBrake before using the following settings.
+- You can download these settings as a preset file from this repository. Just download 'Preset.json' from here and in HandBrake, click 'Presets > Import from file' and then select the file.
 - Some settings are not specified because of one of the following reasons,
   - default setting is suffice
   - they don't affect the end result
