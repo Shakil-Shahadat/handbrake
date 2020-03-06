@@ -1,5 +1,5 @@
 # Introduction
-[ HandBrake ]( https://handbrake.fr/ ) is a very popular free video conversion software. I have tested the software extensively for the best settings to produce _**lowest file size**_. Here is the result.
+[ HandBrake ]( https://handbrake.fr/ ) is a very popular free video conversion software. I have tested the software extensively for the best settings to produce _**lowest file size**_. Here are the results.
 
 ## Reminders
 - Always use the latest version of HandBrake.
