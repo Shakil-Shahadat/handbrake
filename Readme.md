@@ -1,7 +1,7 @@
 # Introduction
 [ HandBrake ]( https://handbrake.fr/ ) is a very popular free video conversion software. I have tested the software extensively for the best settings to produce _**lowest file size**_. Here is the result.
 
-Some reminders,
+## Reminders
 - Always use the latest version of HandBrake.
 - You can download these settings as a preset file from this repository. Just download 'Preset.json' from here and in HandBrake, click 'Presets > Import from file' and then select the file.
 - Get yourself familiarized with HandBrake before using the following settings.
