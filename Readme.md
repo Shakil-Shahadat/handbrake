@@ -1,7 +1,7 @@
 # Prelude
 [ HandBrake ]( https://handbrake.fr/ ) is a very popular free & open source video conversion software. I have tested the software extensively for the best settings to produce _**lowest file size**_ keeping reasonable video quality. Here are the results.
 
-I have got upto 97% file size reduction using provided preset.
+I have got upto 97% file size reduction using the preset I have provided here.
 
 # Reminders
 - Always use the latest version of HandBrake.
