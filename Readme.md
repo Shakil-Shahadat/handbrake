@@ -15,6 +15,7 @@
 - You can check the codec and other information of a video using [ MediaInfo. ]( https://mediaarea.net/en/MediaInfo )
 - Due to high compression, conversion might take a long time. But the end result is well worth it.
 - In case, the converted video can't be played, install [ K-Lite Codec Pack. ]( http://www.codecguide.com/download_k-lite_codec_pack_basic.htm )
+- Please star this repository and share this with your friends.
 - Any type of contribution is welcome.
 
 # Summary
