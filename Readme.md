@@ -50,7 +50,7 @@ I have got upto 97% file size reduction using the preset I have provided here.
 
 ## Audio
 
-- Codec: MP3
+- Codec: Opus
 - Mixdown: Mono
 - Samplerate: 16 ( Click the down arrow beside mixdown to see this option )
 - Bitrate: 24 ( Available only after selecting Mixdown and Samplerate )
