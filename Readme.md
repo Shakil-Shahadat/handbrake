@@ -28,6 +28,8 @@ I have got upto 97% file size reduction using the preset I have provided here.
 - Turn off everything.
 
 ## Video
+
+- Resulation: Lower is better.
 - Video Codec: H.265 (x265)
 - Framerate (FPS): 'Same as source' or lower
   - Peak Framerate
