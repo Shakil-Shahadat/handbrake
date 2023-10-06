@@ -1,9 +1,12 @@
 # Prelude
+
 [ HandBrake ]( https://handbrake.fr/ ) is a very popular free & open source video conversion software. I have tested the software extensively for the best settings to produce _**lowest file size**_ keeping reasonable video quality. Here are the results.
 
 I have got upto 97% file size reduction using the preset I have provided here.
 
+
 # Reminders
+
 - Always use the latest version of HandBrake.
 - Get yourself familiarized with HandBrake before using the following settings.
 - You can download these settings as a preset file from this repository. Just download 'Preset.json' from here and in HandBrake, click 'Presets > Import from file' and then select the file.
@@ -21,11 +24,16 @@ I have got upto 97% file size reduction using the preset I have provided here.
 - Please star this repository and share this with your friends.
 - Any type of contribution is welcome.
 
+
 # Summary
+
 - Format: MKV
 
+
 ## Filters
+
 - Turn off everything.
+
 
 ## Video
 
@@ -39,7 +47,9 @@ I have got upto 97% file size reduction using the preset I have provided here.
   - Encoder Preset: Placebo
   - Encoder Tune: PSNR
 
+
 ## Audio
+
 - Codec: MP3
 - Mixdown: Mono
 - Samplerate: 16 ( Click the down arrow beside mixdown to see this option )
