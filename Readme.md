@@ -9,7 +9,7 @@ I have got upto 97% file size reduction using the preset I have provided here.
 
 - Always use the latest version of HandBrake.
 - Get yourself familiarized with HandBrake before using the following settings.
-- You can download these settings as a preset file from this repository. Just download 'Preset.json' from here and in HandBrake, click 'Presets > Import from file' and then select the file.
+- You can download these settings as a preset file from this repository. Just download 'High Compression Preset.json' from here and in HandBrake, click 'Presets > Import from file' and then select the file.
 - This preset is specifically geared towards video tutorials. For other categories of videos, you must adapt this preset. Take this preset as a guideline and make your own preset.
 - Some settings are not specified because of one of the following reasons,
   - default setting is suffice
